@@ -1,0 +1,47 @@
+.item1{
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+
+}
+box{
+    background-color: aliceblue;
+    border-style: solid;
+    border-color:rgb(240, 220, 220);
+    text-align: center;
+    width: 400px;
+    height:200px;
+    
+}
+p{ color:black;
+font-style:normal}
+.text2{
+    display:flex;
+    justify-content: space-around;
+    
+}
+div{ color:blueviolet;
+    font-style: italic;
+    flex-wrap: wrap;
+}
+
+button{ background-color:rgb(127, 216, 195);
+color:aliceblue}
+#gia{background-color: rgb(210, 171, 247);}
+h1{
+    background-color: blue;
+    text-align: right;
+}
+header{
+    background-color: rgb(32, 209, 150);
+    color:aliceblue;
+    font-weight: 200;
+    font-size:30px;
+    width:auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    height:40px;
+    
+}
